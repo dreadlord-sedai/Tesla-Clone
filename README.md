@@ -1,6 +1,6 @@
 # Tesla Clone Website
 
-![Tesla Clone](Tesla-Clone/Screenshot 2024-05-22 160426.png)
+![Tesla Clone](Screenshot%202024-05-22%20160426.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -27,17 +27,25 @@ This project is a clone of the Tesla website, built to practice and demonstrate 
 - **JavaScript**: For interactive elements and functionality.
 - **Bootstrap**: For responsive design and layout.
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+</p>
+
+
 ## Installation
 To get a local copy up and running, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/tesla-clone.git
+    git clone https://github.com/dreadlord-sedai/Tesla-Clone.git
     ```
 
 2. **Navigate to the project directory**:
     ```sh
-    cd tesla-clone
+    cd Tesla-Clone
     ```
 
 3. **Open `index.html` in your browser**:
@@ -73,5 +81,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For any questions or feedback, feel free to reach out:
 
-- **Your Name**: [Your Email](mailto:your-email@example.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Your Name**: [Your Email](mailto:dahamifabbio@gmail.com)
+- **GitHub**: [Your GitHub Profile](https://github.com/dreadlord-sedai)
