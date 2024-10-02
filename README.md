@@ -81,5 +81,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For any questions or feedback, feel free to reach out:
 
-- **Your Name**: [Your Email](mailto:dahamifabbio@gmail.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/dreadlord-sedai)
+- **Dahami Fabbio**: [dahamifabbio@gmail.com](mailto:dahamifabbio@gmail.com)
+- **GitHub**: [dreadlord-sedai](https://github.com/dreadlord-sedai)
